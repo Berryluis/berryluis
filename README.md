@@ -1,16 +1,13 @@
-### Hi there 👋
+### Oi! Eu sou o BerryLuis! 
 
-<!--
-**Berryluis/berryluis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div class='stats'>
+  <img src='https://github-readme-stats.vercel.app/api?username=berryluis&show_icons=true&theme=dark'/>
+  <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=berryluis&layout=compact&theme=dark'
+ </div>
+  
+<div class='linguagens'>
+  <img alt='PYTHON-ICON' height='50' width='40' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg'/>
+  <img alt='HTML5-ICON' height='50' width='40' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg'/>
+  <img alt='CSS3-ICON' height='50' width='40' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg'/>
+  <img alt='JS-ICON' height='50' width='40' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg'/>
+</div>
